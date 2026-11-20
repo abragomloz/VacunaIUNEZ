@@ -1,0 +1,17 @@
+C:\Users\abraham\source\repos\VacunaPC\obj\Debug\net8.0-windows\VacunaPC.Form1.resources
+C:\Users\abraham\source\repos\VacunaPC\obj\Debug\net8.0-windows\VacunaPC.csproj.GenerateResource.cache
+C:\Users\abraham\source\repos\VacunaPC\obj\Debug\net8.0-windows\VacunaPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abraham\source\repos\VacunaPC\obj\Debug\net8.0-windows\VacunaPC.AssemblyInfoInputs.cache
+C:\Users\abraham\source\repos\VacunaPC\obj\Debug\net8.0-windows\VacunaPC.AssemblyInfo.cs
+C:\Users\abraham\source\repos\VacunaPC\obj\Debug\net8.0-windows\VacunaPC.csproj.CoreCompileInputs.cache
+C:\Users\abraham\source\repos\VacunaPC\bin\Debug\net8.0-windows\VacunaPC.exe
+C:\Users\abraham\source\repos\VacunaPC\bin\Debug\net8.0-windows\VacunaPC.dll.config
+C:\Users\abraham\source\repos\VacunaPC\bin\Debug\net8.0-windows\VacunaPC.deps.json
+C:\Users\abraham\source\repos\VacunaPC\bin\Debug\net8.0-windows\VacunaPC.runtimeconfig.json
+C:\Users\abraham\source\repos\VacunaPC\bin\Debug\net8.0-windows\VacunaPC.dll
+C:\Users\abraham\source\repos\VacunaPC\bin\Debug\net8.0-windows\VacunaPC.pdb
+C:\Users\abraham\source\repos\VacunaPC\obj\Debug\net8.0-windows\VacunaPC.dll
+C:\Users\abraham\source\repos\VacunaPC\obj\Debug\net8.0-windows\refint\VacunaPC.dll
+C:\Users\abraham\source\repos\VacunaPC\obj\Debug\net8.0-windows\VacunaPC.pdb
+C:\Users\abraham\source\repos\VacunaPC\obj\Debug\net8.0-windows\VacunaPC.genruntimeconfig.cache
+C:\Users\abraham\source\repos\VacunaPC\obj\Debug\net8.0-windows\ref\VacunaPC.dll
